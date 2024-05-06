@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
+.document.addEventListener('DOMContentLoaded', () => {
     const masterPlay = document.getElementById('masterPlay');
     const wave = document.getElementById('wave');
     const pop_song_left = document.getElementById('pop_song_left');
